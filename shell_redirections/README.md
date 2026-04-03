@@ -1,1 +1,2 @@
 - Script to read /etc/passwd
+- 1-lastlines: displays the last 10 lines of /etc/passwd
