@@ -1,2 +1,3 @@
 - Script to read /etc/passwd
 - 1-lastlines: displays the last 10 lines of /etc/passwd
+- 2-firstlines: displays the first 10 lines of /etc/passwd
