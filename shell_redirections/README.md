@@ -3,3 +3,4 @@
 - 2-firstlines: displays the first 10 lines of /etc/passwd
 - 3-third_line: displays the third line of the file iacta
 - 4-cwd_state: writes the result of ls -la into the file ls_cwd_content, overwriting if it exists
+- 5-hidethisword: displays all lines of /etc/passwd that do not contain the pattern 'bin'
